@@ -1,5 +1,5 @@
 # robot-ohl
 Proyecto comunitario de OHLA
 ## TODO
-* Elegir y agregar LICENCE
+* Elegir y agregar LICENSE
 * Editar README :)
